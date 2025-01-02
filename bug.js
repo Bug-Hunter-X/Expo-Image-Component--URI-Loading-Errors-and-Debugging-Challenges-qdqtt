@@ -1,0 +1,1 @@
+This error occurs when using the Expo `Image` component with a URI that's not properly formatted or accessible.  It often manifests as a blank space where the image should be, or a generic 'failed to load' error message. This is especially true if dealing with dynamic URIs, local file paths, or images hosted on servers that aren't properly configured.
